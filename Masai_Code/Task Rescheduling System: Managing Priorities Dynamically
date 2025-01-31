@@ -1,0 +1,7 @@
+let a = ["T1","T2","T3","T4","T5"];
+a.shift();
+console.log(a);
+a.unshift("T6");
+a.unshift("T7");
+a[a.length-1]="T8";
+console.log(a);
