@@ -1,0 +1,6 @@
+let a=["Reading","playing","eating","dancing","Singing"];
+console.log(a);
+a.unshift("Editing");
+console.log(a);
+a.pop();
+console.log(a);
